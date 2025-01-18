@@ -36,11 +36,11 @@ The provided dataset contains information from 2000 to 2020, covering 176 countr
 - **Latitude**: Latitude of the country's centroid in decimal degrees.
 - **Longitude**: Longitude of the country's centroid in decimal degrees.
 
-#### *SQL Script* 📊
+#### *SQL Script* 🧮
 
 In this repository, you will find a SQL script containing 10 example queries to extract insightful information from the cleaned dataframe, which you can obtain after exploring the attached Jupyter notebook. To get started, you can import the world_renewable_energy.csv file into the SQL software of your choice.
 
-#### *Exploratory Data Analysis* 
+#### *Exploratory Data Analysis* 📊
 
 The EDA process included the following key tasks:
 
